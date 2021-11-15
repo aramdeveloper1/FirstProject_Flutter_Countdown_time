@@ -118,7 +118,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     },
                     child: Text(
                       'Reset',
-                      style: TextStyle(color: Colors.white, fontSize: 21),
+                      style: TextStyle(color: Colors.white, fontSize: 22),
                     )),
               ),
             ),
